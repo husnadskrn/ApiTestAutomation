@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1723661040975' stop='1723661043859'>
+    <name>Pet Tests</name>
+    <title>Pet Tests</title>
+    <test-cases>
+        <test-case start='1723661040975' status='passed' stop='1723661041864'>
+            <name>Create Pet Info</name>
+            <title>Create Pet Info</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661041875' status='passed' stop='1723661042053'>
+            <name>404 - Create Not Found Pet Url</name>
+            <title>404 - Create Not Found Pet Url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042065' status='passed' stop='1723661042228'>
+            <name>400 - Bad Request Content-Type</name>
+            <title>400 - Bad Request Content-Type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042236' status='passed' stop='1723661042407'>
+            <name>GET valid Pet ID</name>
+            <title>GET valid Pet ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042419' status='passed' stop='1723661042591'>
+            <name>GET invalid Pet ID</name>
+            <title>GET invalid Pet ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042602' status='passed' stop='1723661042780'>
+            <name>Get Pet ID is empty</name>
+            <title>Get Pet ID is empty</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042787' status='passed' stop='1723661042956'>
+            <name>PUT valid Pet Name</name>
+            <title>PUT valid Pet Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661042968' status='passed' stop='1723661043143'>
+            <name>PUT Invalid ID</name>
+            <title>PUT Invalid ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661043151' status='passed' stop='1723661043324'>
+            <name>PUT Empty Body</name>
+            <title>PUT Empty Body</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661043332' status='passed' stop='1723661043501'>
+            <name>Delete Pet ApiKey</name>
+            <title>Delete Pet ApiKey</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661043508' status='passed' stop='1723661043676'>
+            <name>DELETE Invalid ID</name>
+            <title>DELETE Invalid ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723661043687' status='passed' stop='1723661043859'>
+            <name>DELETE Empty ID</name>
+            <title>DELETE Empty ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
